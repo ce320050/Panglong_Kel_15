@@ -1,0 +1,20 @@
+php artisan make:migration create_table_karyawan
+php artisan make:migration create_table_barang
+php artisan make:migration create_table_transaksi
+
+
+1.Merancang database
+- User
+- Barang
+  1. Nama barang
+  2. Harga
+  3. Keterangan
+- Pesanan (one to many)
+  1. user_id (one to many) database user
+  2. Tanggal pesan
+  3. Total_harga
+
+- Pesanan detail (
+  1. nama_barang (one to many) database barang
+  2. jumlah_produk 
+  3. jumlah_harga

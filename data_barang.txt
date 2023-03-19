@@ -1,0 +1,71 @@
+1. Batu_padas
+- Harga : Rp.250.000 
+- Keterangan : 1 kubik (250.000)
+
+2. Batu kerikil
+- Harga : Rp.266.000 
+- Keterangan : 1 kubik (266.000)
+
+3. Besi_beton
+- Harga : Rp.66.000
+- Keterangan : 12 Mili
+
+4. Broti
+- Harga : Rp. 48.000
+	  Rp. 56.000
+	  Rp. 66.000
+
+- Keterangan : 4x6x4 => 48.000
+	       5x7x4 => 56.000
+	       5x10x4 => 66.000
+
+5. Cat (Nippon Paint)
+- Harga : Rp. 40.000
+	  Rp. 140.000
+	  Rp. 660.000
+
+- Keterangan : 1 Kg => 40.000
+	       5 Kg => 140.000
+	       25 Kg => 660.000
+6. Keramik Roman
+- Harga : Rp. 82.000
+	  Rp. 80.000
+	  Rp. 130.000
+
+- Keterangan : 20x25 => Rp. 82.000
+	       20x20 => Rp. 80.000
+	       40x40 => Rp. 130.000
+7. Pasir
+- Harga : Rp.120.000
+- Keterangan : Per Kubik
+
+8.Papan
+- Harga : Rp.65.000
+	  Rp.78.000
+- Keterangan : 2x20x24 => Rp. 65.000
+	       2x25x4 => Rp. 78.000
+
+9.Pintu Fiber
+- Harga : Rp.640.000
+- Keterangan : Fiber jati 
+
+10.Pintu Kayu
+- Harga : Rp.740.000
+- Keterangan : Kayu
+
+11.Semen
+- Harga : Rp.53.000
+	  Rp.54.000
+- Keterangan : Garuda 40 kg => Rp. 53.000
+	       Padang 40 kg => Rp. 54.000
+ 
+12.Seng
+- Harga : Rp.62.000
+- Keterangan : Seng Biasa
+
+13.Triplek
+- Harga : Rp.66.000
+- Keterangan : 4 Mili
+
+
+
